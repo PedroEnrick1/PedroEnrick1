@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou o Meunome
-
-Bem-vindo(a) ao meu perfil!  
-Este repositório (`meunome/meunome`) é especial: ele aparece direto na minha página inicial do GitHub. ✨
+# 👋 Olá, eu sou o Pedro
 
 ---
 
@@ -30,7 +27,6 @@ Este repositório (`meunome/meunome`) é especial: ele aparece direto na minha p
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Portfólio](https://seusite.com)
+- [Instagram](https://instagram.com/Pedro_enrick24
 - [Email](mailto:seuemail@exemplo.com)
 
