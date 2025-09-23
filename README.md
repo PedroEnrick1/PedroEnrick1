@@ -5,7 +5,7 @@ Seja bem-vindo ao meu perfil!
 ---
 
 ## 🚀 Sobre mim
-- 🌱 Atualmente aprendendo: **[HTML, CSS, JS, REACT.JS]**
+- 🌱 Atualmente aprendendo: **[HTML, CSS e JS]**
 
 ---
 
